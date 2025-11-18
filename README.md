@@ -64,4 +64,4 @@ To train the unified model and run inference using Jupyter notebooks:
 - Thanushree C B (PES1UG23AM338): NLP Text Embeddings 
 - Vidyashree M B (PES1UG23AM348): GNN Model Architecture
 
-Submitted for Advanced Foundations for Machine Learning Course Project, November 2025.
+## Submitted for Advanced Foundations for Machine Learning Course Project, November 2025.
