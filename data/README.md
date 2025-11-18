@@ -11,12 +11,13 @@ This folder is for storing the local datasets. To run the project:
 
 **File Structure should look like:**
 ```text
-/data
+data
 ├── TRAIN_model_ready_final_mode.csv
 ├── TEST_model_ready_final_mode.csv
 ├── train_bert_embeddings.npy
 ├── test_bert_embeddings.npy
-└── graph/
+└── graph
     ├── hetero_graph_train.pt
     ├── user_map.json
     └── gmap_map.json
+
