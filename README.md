@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Tech](https://img.shields.io/badge/Stack-PyTorch%20%7C%20PyG%20%7C%20XGBoost%20%7C%20BERT-orange)
+![Tech](https://img.shields.io/badge/Stack-PyTorch%20%7C%20PyG%20%7C%20XGBoost%20%7C%20S-BERT-orange)
 
 > **The integrity of modern digital marketplaces is increasingly compromised by sophisticated review fraud.** This project implements a robust detection system leveraging textual semantics, behavioral profiling, and relational graph structures.
 
