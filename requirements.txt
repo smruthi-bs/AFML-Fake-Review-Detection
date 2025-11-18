@@ -1,0 +1,23 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+joblib>=1.3.0
+
+# Natural Language Processing (Member 1)
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+
+# Behavioral Modeling (Member 2)
+xgboost>=2.0.0
+
+# Graph Neural Networks (Members 3 & 4)
+torch>=2.0.0
+torch-geometric>=2.3.0
+
+# Note: PyTorch Geometric dependencies (scatter, sparse) 
+# often require manual installation based on CUDA version.
+# See: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html

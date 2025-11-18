@@ -1,0 +1,48 @@
+# ---------------------------------------------------
+# 1. DATA AND ARTIFACTS (CRITICAL: DO NOT UPLOAD THESE)
+# ---------------------------------------------------
+# Ignore all large data files, embeddings, and graph objects
+data/
+outputs/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Ignore compiled/saved models and artifacts (joblib, NumPy, PyTorch/PyG)
+*.joblib
+*.pkl
+*.npy
+*.pt
+*.pth
+*.h5
+
+# ---------------------------------------------------
+# 2. PYTHON / ENVIRONMENT
+# ---------------------------------------------------
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyd
+
+# Dependencies
+.venv/
+env/
+venv/
+pip-log.txt
+dist/
+
+# Operating System Files
+.DS_Store # Mac
+*~ # Linux
+Thumbs.db # Windows
+
+# ---------------------------------------------------
+# 3. JUPYTER / COLAB / IDE
+# ---------------------------------------------------
+# Jupyter Notebook cache files
+.ipynb_checkpoints
+.vscode/
+
+# Colab / Google Drive Mounts
+/content/drive
