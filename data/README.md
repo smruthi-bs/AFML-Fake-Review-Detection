@@ -10,6 +10,7 @@ This folder is for storing the local datasets. To run the project:
 4. Download the `graph/` folder from Drive and place it in `data/graph/`.
 
 **File Structure should look like:**
+```text
 /data
 ├── TRAIN_model_ready_final_mode.csv
 ├── TEST_model_ready_final_mode.csv
